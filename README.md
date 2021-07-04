@@ -1,6 +1,8 @@
-Sound Alert Game
-![Screenshot from 2020-07-07 17-11-02](https://user-images.githubusercontent.com/62255672/86775339-ee00f180-c074-11ea-8f06-083542f2554f.png)
-![Screenshot from 2020-07-07 17-06-31](https://user-images.githubusercontent.com/62255672/86775353-f0fbe200-c074-11ea-8f27-c9e1c6bd0efe.png)
-![Screenshot from 2020-07-07 17-06-28](https://user-images.githubusercontent.com/62255672/86775363-f2c5a580-c074-11ea-9302-8ee6b4ba0879.png)
+# Alert Music Game
+
+In this game, there 4 colourful boxes and on clicking each produces different alert sound.
+Enjoy this sound game, and make your favourite music!
+
+![2021-07-04](https://user-images.githubusercontent.com/62255672/124386905-2e339800-dcfa-11eb-81b8-955926cbdc5f.png)
 
 
